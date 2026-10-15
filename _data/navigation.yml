@@ -1,15 +1,12 @@
 # The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# All links point to sections on the home page (_pages/about.md).
 
 main:
+  - title: "Research Interests"
+    url: /#research-interests
+
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Research"
-    url: /research/
+  - title: "Contact"
+    url: /#contact

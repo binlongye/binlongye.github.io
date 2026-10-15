@@ -36,3 +36,12 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Single-page site: smooth scrolling to sections, offset for the fixed top bar */
+html {
+  scroll-behavior: smooth;
+}
+
+.page__content h1[id] {
+  scroll-margin-top: 90px;
+}
