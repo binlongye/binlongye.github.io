@@ -13,10 +13,9 @@ Research Interests
 ======
 {: #research-interests}
 
-* **Martian valley networks and fluvial erosion**: Measuring ancient river valleys with HRSC and CTX digital elevation models. How deeply did valleys incise, where are their knickpoints, and how much material was eroded compared with what is preserved in downstream fans and deltas?
-* **Crater degradation and Noachian erosion**: Using degraded impact craters as a global record of how much material was removed from the surface of early Mars, and what this implies for early erosion rates.
-* **Visible–infrared spectroscopy of the Martian surface**: Spectral parameter analysis of OMEGA hyperspectral data, with a focus on detecting volcanic and impact glasses.
-* **Landscape evolution modeling**: Numerical simulations of how Martian landscapes respond to different climate, runoff and erosion scenarios.
+<!-- Add research interests here, one bullet per topic. Example:
+* **Topic name**: One or two sentences describing the topic.
+-->
 
 Publications
 ======
